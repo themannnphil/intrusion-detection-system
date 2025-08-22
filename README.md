@@ -26,11 +26,14 @@ The IDS detects malicious network traffic and classifies it as either normal (0)
 
 ##  Project Structure
 ```
-├── IDS_NS-KDD_XGBoost_Notebook.ipynb   # Full pipeline notebook
-├── IDS_Report.pdf                      # Professional summary report
-├── README.md                           # Project documentation
+├── data                                # Datasets directory
+├── models                              # Models directory
 └── model_xgb.joblib                    # Exported trained XGBoost model
-└── model_demo.ipynb                    # XGBoost model test notebbok
+├── Team 11-IDS.ipynb                   # Full pipeline notebook
+├── model_demo.ipynb                    # Model test demo notebook
+├── IDS_Report-team11.pdf               # Professional summary report
+├── README.md                           # Project documentation
+
 ```
 
 ##  Requirements
