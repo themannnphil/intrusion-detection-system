@@ -30,6 +30,7 @@ The IDS detects malicious network traffic and classifies it as either normal (0)
 ├── IDS_Report.pdf                      # Professional summary report
 ├── README.md                           # Project documentation
 └── model_xgb.joblib                    # Exported trained XGBoost model
+└── model_demo.ipynb                    # XGBoost model test notebbok
 ```
 
 ##  Requirements
